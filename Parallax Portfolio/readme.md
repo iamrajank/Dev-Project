@@ -1,5 +1,5 @@
 
-https://github.com/user-attachments/assets/0c546ab7-c36e-4c56-b789-2c34f22e5b6f
+
 # Animated Parallax Portfolio
 
 This is an animated parallax portfolio web application built using HTML, CSS, and JavaScript. The portfolio includes a header, navbar with multiple sections (Home, Projects, Experience, Contact Form), content, contact form, and footer. The contact form data is automatically sent to a Google Sheet.
@@ -53,10 +53,7 @@ Contact Form Section: Users can fill out the contact form to send you a message.
 
 ## Screenshots/Videos
 
-
-
-https://github.com/user-attachments/assets/92bd5b31-54c7-4237-8c38-81317e8f1397
-
+https://github.com/user-attachments/assets/0c546ab7-c36e-4c56-b789-2c34f22e5b6f
 
 ## Contributing
 
