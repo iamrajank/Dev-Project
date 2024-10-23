@@ -11,7 +11,7 @@ An animated counter web application created using HTML, CSS, and JavaScript. Thi
 
 ## Usage
 
-Open index.html to view the animated counter web application.
+Open index.html to view the animated counter web applications.
 Click the increment button to increase the counter value.
 Click the decrement button to decrease the counter value.
 Observe the smooth animations as the counter value changes.
