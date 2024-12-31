@@ -1,62 +1,36 @@
-# Weather Web Application
+# Animated Registration Form
 
-An weather web application built using HTML, CSS, and JavaScript. This application allows users to search for the weather in various cities, utilizing a free weather API to fetch and display weather data with smooth animations and an intuitive interface.
+An animated Registration Form created using react.js library. This form features smooth transitions and an intuitive design, offering a modern and user-friendly interface for user authentication.
 
 ## Table of Contents
 
+
 - [Usage](#usage)
 - [Features](#features)
-- [Screenshots](#screenshots)
-- [Contributing](#contributing)
+- [Images/Videos](#screenshots)
 - [Contact](#contact)
 
 ## Usage
+-> Enter your credentials in the login form to simulate a login process.
 
-Open index.html to view the animated weather web application.
-
-Enter a city name in the search bar and click the search button to get the current weather.
-
-View the weather data displayed with smooth animations.
-
+-> Switch to the signup form by clicking on the signup link.
 
 ## Features
 
-Search functionality for city weather.
+-> Smooth animations for form transitions.
 
-Uses a free weather API to fetch weather data.
+-> Modern and responsive design.
 
-Smooth animations for displaying weather information.
+-> Separate login and signup forms.
 
-Modern and responsive design.
+-> Easy to customize and integrate into existing projects.
 
-## Screenshots/Videos
+## Images/Videos
 
-
-https://github.com/iamrajank/Development-Projects/assets/101178067/2a6be19e-141d-4537-b497-017599abe390
-
-
-## Contributing
-
-Fork the repository.
-
-Create a new branch (git checkout -b feature/your-feature).
-
-Commit your changes (git commit -m 'Add your feature').
-
-Push to the branch (git push origin feature/your-feature).
-
-Open a Pull Request.
+https://github.com/user-attachments/assets/b4655e25-e820-4935-baee-f9943e4fb817
 
 ## Contact
-
 Email - rajankrpoddar@gmail.com
 
-
 Feel free to adjust the content to better fit your specific project.
-
-
-# Deploy Link
-https://weatherwebapplications.netlify.app/
-
-
 
